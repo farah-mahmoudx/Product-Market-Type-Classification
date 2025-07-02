@@ -1,8 +1,5 @@
 # Product-Market-Type-Classification
 This project aims to classify retail products into different market types using machine learning. We built a supervised classification model based on the XGBoost algorithm, which demonstrated high accuracy in predicting the appropriate market type based on product and outlet features.
-# 🛒 Product Market Type Classification
-
-This project uses machine learning (XGBoost) to predict the **market type** of retail products based on their features. It was developed for the **ECE3403 - Data Analytics & Optimization** course at AASTMT.
 
 ## 🔍 Project Goal
 To automatically classify products into one of four market types using product and outlet data.
