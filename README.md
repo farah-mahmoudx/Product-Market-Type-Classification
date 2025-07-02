@@ -23,3 +23,5 @@ We developed and ran our notebook on (https://www.kaggle.com/competitions/pr-21-
 
 > **Before Preprocessing Accuracy**: 68.705%  
 > **After Preprocessing Accuracy**: 99.251%
+> ## 👨‍💻 Collaborators
+- [Salma Fayed](https://github.com/salmafayed7)
