@@ -19,7 +19,7 @@ To automatically classify products into one of four market types using product a
 ## 🏁 Dataset Source
 
 This project is based on a dataset from a real **Kaggle competition** on product market classification.  
-We developed and ran our notebook on (https://www.kaggle.com/competitions/pr-21-competition-classification/data), which provided GPU/CPU resources and competition leaderboard scoring.
+We developed and ran our notebook on (https://www.kaggle.com/competitions/pr-21-competition-classification/overview), which provided GPU/CPU resources and competition leaderboard scoring.
 
-> **Before Preprocessing Accuracy**: 67.89%  
-> **After Preprocessing Accuracy**: 98.85%
+> **Before Preprocessing Accuracy**: 68.705%  
+> **After Preprocessing Accuracy**: 99.251%
