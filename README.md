@@ -16,4 +16,10 @@ To automatically classify products into one of four market types using product a
 - Trained an XGBoost classifier
 - Evaluated results using accuracy and confusion matrix
 
+## 🏁 Dataset Source
 
+This project is based on a dataset from a real **Kaggle competition** on product market classification.  
+We developed and ran our notebook on (https://www.kaggle.com/competitions/pr-21-competition-classification/data), which provided GPU/CPU resources and competition leaderboard scoring.
+
+> **Before Preprocessing Accuracy**: 67.89%  
+> **After Preprocessing Accuracy**: 98.85%
