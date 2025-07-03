@@ -26,3 +26,4 @@ We developed and ran our notebook on (https://www.kaggle.com/competitions/pr-21-
 > ## 👨‍💻 Collaborators
 - [Salma Fayed](https://github.com/salmafayed7)
 - [leena gouda](https://github.com/leena-gouda)
+- [farida khaled](https://github.com/faridakhaled05)
